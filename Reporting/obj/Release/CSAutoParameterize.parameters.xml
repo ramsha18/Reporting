@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DbContext-Web.config Connection String" description="DbContext Connection String used in web.config by the application to access the database." defaultValue="data source=RAMSHAHASSAN-BM;initial catalog=Irtiza;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Lenovo\\source\\repos\\Reporting\\Reporting\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DbContext']/@connectionString" />
+  </parameter>
+</parameters>
